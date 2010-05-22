@@ -14,9 +14,9 @@
 	<a href="http://www.facebook.com" target="_blank">Facebook</a>
 	<p>And so it begins.</p>
 	<img src="http://www.plushpaws.co.uk/user/products/large/CP-DUC-1w.jpg" title="duckster" height="522" width="600"/>
-	<form method="GET" action="">
+	<form method="POST" action="instrument.php">
 		<p>Instrument</p>
-		<input type="text" name="instrument">
+		<input type="text" name="Class">
 		<input type="submit" value="search">
 	</form>
 
